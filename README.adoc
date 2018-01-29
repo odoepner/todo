@@ -1,0 +1,51 @@
+Finances
+~~~~~~~~
+
+* Move CGI shares to Virtualbroker account
+* Switch from Eastlink to CityWide internet, voip.ms phone
+* Call Cooperators to remove features(?), mention Home Sec canceled
+* Move Savings to EG bank
+* Investigate if 11l/100km is normal for our car in winter / city
+** If possible have it fine-tuned so it uses less gas ?
+** Alternatively sell it and buy a 2nd hand Chevy Bolt
+* Reduce water bill by installing rain water collection
+* Investigate composting toilets
+* Consider switching furnace from oil to natural gas ?
+* Resend email to DeBeKa about no more insurance increases
+* Send required info to Mortgage broker, make appointment
+* Make extra mortgage payments to reduce the principal
+* Taxes: Register a business and claim "office" expenses ???
+
+Home
+~~~~
+
+- Put new light-bulb into front porch lamp
+- Buy Downeast laundry detergent or make Aspen's recipe
+- Arts/Craft area: Install pencil sharpener, table cloth
+- Investigate Solar Panels, bidirectional NS Power meter
+- Have the dryer vent pipes cleaned 
+- Put a new cover on the dryer vent 
+- Start caulking all doors and windows
+- Look into better locks for front and rear doors
+- Look into buying a heat-pump
+
+Projects
+~~~~~~~~
+
+Coding
+
+* Bagh-Chal => Duc D'Anville
+* Tippotle
+* guppy4j/web
+* Deploy step for odoepner/toller-moderne
+* Start chapters outline for sw-engineer book
+
+Sustainable Lifestyle
+
+* Prepare for melting plastics into molded brick shapes
+** Determine safe type of plastic, temperature, equipment
+** Breath filters, brick-shaped container for molding
+
+Ideas
+~~~~~
+
