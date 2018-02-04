@@ -2,7 +2,10 @@ Finances
 ~~~~~~~~
 
 * Send required info to Mortgage broker, make appointment
-* Switch from Eastlink to CityWide internet, voip.ms phone
+
+Switch from Eastlink to CityWide internet, voip.ms phone
+* Add signature to last Eastlink bill 
+
 * Call Cooperators to remove features(?), mention Home Sec canceled
 * Move CGI shares to Virtualbroker account
 * Move Savings to EG bank
@@ -10,18 +13,17 @@ Finances
 ** If possible have it fine-tuned so it uses less gas ?
 ** Alternatively sell it and buy a 2nd hand Chevy Bolt
 * Reduce water bill by installing rain water collection
-* Investigate composting toilets
+* Investigate safe composting toilets to save water and buy less garden soil
 * Consider switching furnace from oil to natural gas ?
-* Resend email to DeBeKa about no more insurance increases
 * Make extra mortgage payments to reduce the principal
 * Taxes: Register a business and claim "office" expenses ???
 
 Home
 ~~~~
 
+- Put a new cover on the dryer vent 
 - Investigate Solar Panels, bidirectional NS Power meter
 - Have the dryer vent pipes cleaned 
-- Put a new cover on the dryer vent 
 - Start caulking all doors and windows
 - Look into better locks for front and rear doors
 - Look into buying a heat-pump
