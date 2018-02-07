@@ -1,14 +1,12 @@
 Finances
 ~~~~~~~~
 
+* Switch phone from Eastlink to voip.ms
+* Switch internet from Eastlink to CityWide 
 * Send required info to Mortgage broker, make appointment
-
-Switch from Eastlink to CityWide internet, voip.ms phone
-* Add signature to last Eastlink bill 
-
 * Call Cooperators to remove features(?), mention Home Sec canceled
 * Move CGI shares to Virtualbroker account
-* Move Savings to EG bank
+* Move Savings to EQ bank
 * Investigate if 11l/100km is normal for our car in winter / city
 ** If possible have it fine-tuned so it uses less gas ?
 ** Alternatively sell it and buy a 2nd hand Chevy Bolt
